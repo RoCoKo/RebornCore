@@ -1,3 +1,4 @@
+### Translated by RoCoKo
 reborncore.message.active=Aktif
 reborncore.message.inactive=İnaktif
 
@@ -7,3 +8,4 @@ reborncore.tooltip.energy.maxEnergy=Maksimum Enerji
 reborncore.tooltip.energy.inputRate=Giriş Oranı
 reborncore.tooltip.energy.outputRate=Çıkış Oranı
 reborncore.tooltip.energy.tier=Aşama
+reborncore.tooltip.energy.change=Enerji Değişimi
